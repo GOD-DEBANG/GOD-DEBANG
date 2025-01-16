@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debang Chowdhury</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Python programing along with DATA STRUCTURE IN PYTHON**
+- 🌱 I’m currently learning **JAVA programing along with DATA STRUCTURE IN JAVA**
 
 - 📝 I regularly write articles on [https://dev.to/god_debang](https://dev.to/god_debang)
 
